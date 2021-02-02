@@ -24,7 +24,6 @@
 </p>
 
 ### <img height="25" src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif"> Projetos e estudos da última semana:
-
 [![viniciusad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusad)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center" >
