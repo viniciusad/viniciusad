@@ -7,8 +7,6 @@
 </div>
 
 <br />
-<img align="right" height="200px" width="380px" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
-
  - 💡 Me especializando em Javascript & Node.js... <br>
  <i>Com conhecimento em Python, Typescript, React, entre outras!</i>
 
@@ -17,13 +15,15 @@
  - 💬 Vamos inventar? Pode me chamar aqui 👉🏼<a href="https://www.linkedin.com/in/viniciusad/"><img height="25" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
 <br>
 <br>
-<p align="center" >
+<img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
+<p align="left" >
 <a href="https://github.com/viniciusad/github-readme-stats"> 
-   <img  src="https://github-readme-stats.vercel.app/api?username=viniciusad&&show_icons=true&theme=radical"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=viniciusad&&show_icons=true&theme=white"/>
 </a>
 </p>
 
-### <img height="25" src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif"> Projetos e estudos da última semana:
+## <img height="25" src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif">Projetos e estudos da última semana:
 [![viniciusad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusad)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center" >
