@@ -6,17 +6,14 @@
   <h3>Vinicius Silva | 💻 Desenvolvedor Front-End Junior (fullstack? <img src="https://media.giphy.com/media/3ov9k0BZQL358k458s/giphy.gif" width="70px">) | 🌎 Rio de Janeiro, RJ</h3>
 </div>
 
-<br />
- - 💡 Me especializando em Javascript & Node.js... <br>
+- 💡 Me especializando em Javascript & Node.js... <br>
  <i>Com conhecimento em Python, Typescript, React, entre outras!</i>
 
- - 💻 A programação, além de um objetivo, também se tornou um hobby pra mim.
+- 💻 A programação, além de um objetivo, também se tornou um hobby pra mim.
  
- - 💬 Vamos inventar? Pode me chamar aqui 👉🏼<a href="https://www.linkedin.com/in/viniciusad/"><img height="25" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+- 💬 Vamos inventar? Pode me chamar aqui 👉🏼<a href="https://www.linkedin.com/in/viniciusad/"><img height="25" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
 <br>
 <br>
-<img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
-
 <p align="left" >
 <a href="https://github.com/viniciusad/github-readme-stats"> 
    <img  src="https://github-readme-stats.vercel.app/api?username=viniciusad&&show_icons=true&theme=white"/>
@@ -24,7 +21,7 @@
 </p>
 
 ## <img height="25" src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif">Projetos e estudos da última semana:
-[![viniciusad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusad)](https://github.com/anuraghazra/github-readme-stats)
+[![viniciusad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusad)](https://github.com/viniciusad)
 
 <h1 align="center" >
 - Com o que eu costumo trabalhar...
@@ -42,4 +39,6 @@
   <img src="https://raw.githubusercontent.com/viniciusad/profile-readme/master/mongodb.png" alt="mongodb" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/viniciusad/profile-readme/master/node-js.png" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/viniciusad/profile-readme/master/vs-code.png" alt="vscode" style="vertical-align:top; margin:4px">
+  <br>
+  <img align="center" height="200px" width="380px" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </p>
