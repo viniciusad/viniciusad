@@ -39,7 +39,7 @@ Encaro a programação não apenas como minha profissão, mas como um grande hob
 </p>
 
 ---
-
+<!--
 ### 📊 Estatísticas e Projetos
 
 <div align="center">
@@ -49,9 +49,7 @@ Encaro a programação não apenas como minha profissão, mas como um grande hob
   <a href="https://github.com/viniciusad">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viniciusad&theme=radical&hide_border=true&layout=compact" alt="Wakatime" height="165" />
   </a>
-</div>
-
----
+</div> -->
 
 ### 📫 Vamos Conversar?
 
